@@ -1,6 +1,11 @@
 # Multi-layer perceptron
 
-The perceptron is very useful for classifying data sets that are linearly separable.  They encounter serious limitations with data sets that do not conform to this pattern as discovered with the XOR problem.  
+- MLPs form the basis for all neural networks and have greatly improved the power of computers when applied to classification and regression problems.  Computers are no longer limited by XOR cases and can learn rich and complex models thanks to the multilayer perceptron.
+
+
+- The perceptron is very useful for classifying data sets that are linearly separable.  They encounter serious limitations with data sets that do not conform to this pattern as discovered with the XOR problem.  
+
+
 The MultiLayer Perceptron (MLPs) breaks this restriction and classifies datasets which are not linearly separable.  They do this by using a more robust and complex architecture to learn regression and classification models for difficult datasets.
 
 ## `How does a multilayer perceptron work?`
